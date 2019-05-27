@@ -18,3 +18,4 @@ Mantenido por el equipo de SocialTIC:
 - Haydeé Quijano @haydeki
 - Carla Bustos @carlasocialtic
 - Beatriz Quesadas @ZirtQuesadas
+- Gibran Mena @GibranMena
