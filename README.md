@@ -2,16 +2,13 @@
 
 ## Descripción del repositorio
 
-En este repositorio se encuentra un listado de herramientas documentadas por el
-equipo de SocialTIC, las cuales se basan en los tres ejes que maneja la
-organización:
+En este repositorio se encuentra un listado de herramientas documentadas por el equipo de SocialTIC, las cuales se basan en los tres ejes de la organización:
 
 - Seguridad Digital
 - Datos
 - InfoActivismo.
 
-Las [herramientas documentadas](./herramientas.md) se reflejan en los sitios de
-cada eje respectivamente:
+Las [herramientas documentadas](./herramientas.md) se reflejan en los sitios de cada eje respectivamente:
 
 - [protege.la](protege.la/herramientas)
 - [escueladedatos.org](escueladedatos.org/herramientas)
@@ -23,8 +20,7 @@ Y en un concentrado en el sitio de [SocialTIC](socialtic.org/herramientas).
 
 ### Solicitar un cambio en el listado
 
-El listado de herramientas esta abierto a contribuciones, para esto puedes
-levantar un issue con los siguientes datos:
+El listado de herramientas está abierto a contribuciones, para esto puedes levantar un issue con los siguientes datos:
 
 - Categoría
 - Etiquetas
@@ -37,23 +33,22 @@ levantar un issue con los siguientes datos:
 - Ultima revisión
 - ¿Quien reviso?
 
-O puedes hacer un Fork y solicitar un Pull Request, la información a añadir es
-la misma solo que dentro de la matriz en el archivo de [herramientas](./herramientas.md).
+O puedes hacer un Fork y solicitar un Pull Request, la información a añadir es la misma solo que dentro de la matriz en el archivo de [herramientas](./herramientas.md).
 
-### Categorias y etiquetas
+### Categorías y etiquetas
 
 Una herramienta puede estar categorizada y etiquetada de la siguiente manera,
 en categoría ser de `Seguridad Digital`, y tener las etiquetas
 `Equipos de computo`, `GNU/Linux`, `Windows`, `Archivos`, `Cifrado` y `Respaldos`.
 
-De tal modo que sabemos que esta herramienta es para seguridad digital, se
-encuentra disponible en equipos de computo con los sistemas operativos GNU/Linux
+Con esto sabemos que ésta herramienta es para seguridad digital, se
+encuentra disponible en equipos de cómputo con los sistemas operativos GNU/Linux
 y Windows, y sirve para temas de manejo de archivos, cifrado y respaldos.
 
-Las herramientas se pueden categorizar con base en la siguiente estructura:
+Las herramientas se pueden categorizar con la siguiente estructura:
 
 - `Seguridad Digital`
- - `Equipos de computo`
+ - `Equipos de cómputo`
    - `GNU/Linux`
    - `Mac`
    - `Windows`
@@ -90,7 +85,7 @@ Las herramientas se pueden categorizar con base en la siguiente estructura:
 - `InfoActivismo`
  - Pendientes
 
-## Creditos
+## Créditos
 
 Gestionado por el equipo de [SocialTIC](github.com/socialtic):
 
