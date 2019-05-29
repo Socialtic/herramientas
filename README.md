@@ -97,7 +97,7 @@ Gestionado por el equipo de [SocialTIC](github.com/socialtic):
 - Paul Aguilar [@penserbjorne](github.com/penserbjorne)
 - Haydeé Quijano [@haydeki](github.com/haydeki)
 - Carla Bustos [@CarlaSocialtic](github.com/CarlaSocialtic)
-- Beatriz Quesadas [@ZirtQuesadas](github.com/ZirtQuesadas)
+- Bet Quesadas [@ZirtQuesadas](github.com/ZirtQuesadas)
 - Gibran Mena [@GibranMena](github.com/GibranMena)
 
 **HapyHacking!!!**
