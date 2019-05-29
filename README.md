@@ -4,11 +4,10 @@
 
 En este repositorio se encuentra un listado de herramientas documentadas por el
 equipo de SocialTIC, las cuales se basan en los tres ejes que maneja la
-organización:
+organización.
 
-- Seguridad Digital
-- Datos
-- InfoActivismo.
+Esta rama está centrada en el eje de análisis de Datos
+
 
 Las [herramientas documentadas](./herramientas.md) se reflejan en los sitios de
 cada eje respectivamente:
